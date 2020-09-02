@@ -27,7 +27,7 @@ public class Solution {
 
             String emailID = firstNameEmailID[1];
             
-            if (emailID.endsWith("gmail.com")) {
+            if (emailID.endsWith("@gmail.com")) {
                 nameList.add(firstName);
             }
             
